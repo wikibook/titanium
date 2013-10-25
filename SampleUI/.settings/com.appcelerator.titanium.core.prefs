@@ -1,0 +1,10 @@
+#Sun Nov 20 20:47:18 KST 2011
+eclipse.preferences.version=1
+provisioning_profiles/development/2A15700B-1DEC-42A7-8643-BB105E34F6BD/appid=hyunwoo.bang.*
+provisioning_profiles/development/2A15700B-1DEC-42A7-8643-BB105E34F6BD/filepath=/Users/bangslosan/Downloads/Sample_UI_Dev.mobileprovision
+provisioning_profiles/development/2A15700B-1DEC-42A7-8643-BB105E34F6BD/name=Sample UI Dev
+provisioning_profiles/development/2A15700B-1DEC-42A7-8643-BB105E34F6BD/uuid=2A15700B-1DEC-42A7-8643-BB105E34F6BD
+provisioning_profiles/distribution/2E59F289-AB0C-4506-94D9-B315ACE38FFF/appid=hyunwoo.bang.*
+provisioning_profiles/distribution/2E59F289-AB0C-4506-94D9-B315ACE38FFF/filepath=/Users/bangslosan/Downloads/Sample_UI.mobileprovision
+provisioning_profiles/distribution/2E59F289-AB0C-4506-94D9-B315ACE38FFF/name=Sample UI
+provisioning_profiles/distribution/2E59F289-AB0C-4506-94D9-B315ACE38FFF/uuid=2E59F289-AB0C-4506-94D9-B315ACE38FFF
